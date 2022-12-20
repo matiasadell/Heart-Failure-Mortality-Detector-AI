@@ -1,4 +1,4 @@
-# Detector de Mortalidad por Insuficiencia Cardíaca IA
+# Detector de Mortalidad por Insuficiencia Cardíaca
 
 ### Introducción
 Las enfermedades cardiovasculares (ECV) son la principal causa de muerte en todo el mundo y se cobran aproximadamente 17,9 millones de vidas cada año, lo que representa el 31 % de todas las muertes en todo el mundo.
